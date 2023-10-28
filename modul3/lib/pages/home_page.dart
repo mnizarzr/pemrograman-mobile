@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:modul3/routes/routes.dart';
 
-import '../controllers/home_controllers.dart';
+import '../controllers/home_controller.dart';
 import '../data/models/todo.dart';
 
 class HomePage extends GetView<HomeController> {
